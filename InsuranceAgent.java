@@ -1,5 +1,14 @@
 //package assignment10;
 
+/*
+ *
+ * Name: InsuranceAgent.java
+ * Purpose: Tests uses Maps and using their Set methods
+ * Author: grivera64
+ * Date: 11/24/2021
+ *
+ */
+
 import java.io.File;
 import java.io.IOException;
 import java.io.PrintWriter;

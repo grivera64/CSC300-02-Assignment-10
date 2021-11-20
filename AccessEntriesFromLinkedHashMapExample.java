@@ -1,5 +1,15 @@
 //package assignment10;
 
+/*
+ *
+ * Name: AccessEntriesFromLinkedHashMapExample.java
+ * Purpose: Tests how Linked HashMaps work with replacing and
+ *          checking contents
+ * Author: grivera64
+ * Date: 11/24/2021
+ *
+ */
+
 import java.util.LinkedHashMap;
 import java.util.Map;
 
