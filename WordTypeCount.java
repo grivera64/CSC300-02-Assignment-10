@@ -1,5 +1,15 @@
 //package assignment10;
 
+/*
+ *
+ * Name: AccessEntriesFromLinkedHashMapExample.java
+ * Purpose: Tests how Linked HashMaps work with replacing and
+ *          checking contents
+ * Author: grivera64
+ * Date: 11/24/2021
+ *
+ */
+
 import java.util.Map;
 import java.util.HashMap;
 import java.util.Set;
@@ -20,6 +30,12 @@ public class WordTypeCount {
         tokens = setOfWords.split(" ");
 
         for (String element : tokens) {
+
+            if (element.isBlank() || element.isEmpty()) {
+
+                continue;
+
+            }
 
             tempWord = element.toLowerCase();
 
