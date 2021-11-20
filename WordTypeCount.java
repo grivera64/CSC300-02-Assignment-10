@@ -2,9 +2,9 @@
 
 /*
  *
- * Name: AccessEntriesFromLinkedHashMapExample.java
- * Purpose: Tests how Linked HashMaps work with replacing and
- *          checking contents
+ * Name: WordTypeCount.java
+ * Purpose: Uses Maps to determine the number of
+ *          times a word appears
  * Author: grivera64
  * Date: 11/24/2021
  *
